@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">KalyanSarathi</string>
+    
+    <!-- English Strings -->
+    <string name="welcome_message">Welcome to KalyanSarathi! Discover government schemes you\'re eligible for.</string>
+    <string name="start_chat">Start Chat</string>
+    <string name="chat_history">Chat History</string>
+    <string name="features">Features:</string>
+    <string name="bilingual_support">• Bilingual support (English/Hindi)</string>
+    <string name="voice_input_output">• Voice input and output</string>
+    <string name="personalized_recommendations">• Personalized scheme recommendations</string>
+    <string name="chat_history_management">• Chat history management</string>
+    <string name="no_chat_history">No chat history yet</string>
+    <string name="start_new_chat">Start a new chat to see your history here</string>
+    <string name="delete_chat">Delete Chat</string>
+    <string name="delete_confirmation">Are you sure you want to delete this chat session?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="get_recommendations">Get Recommendations</string>
+    <string name="getting_recommendations">Getting recommendations...</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="enter_age">Enter age</string>
+    <string name="please_enter_phone">Please enter your Phone number:</string>
+    <string name="please_enter_gender">Please enter your Gender:</string>
+    <string name="please_choose_area">Please choose whether your registered address is rural or urban:</string>
+    <string name="please_specify_occupation">Please specify your occupation:</string>
+    <string name="please_enter_age">Please enter your age:</string>
+    <string name="please_enter_caste">Please Enter your Caste:</string>
+    <string name="please_enter_state">Please enter the state/Union Territory that you are a domicile of:</string>
+    <string name="minority_religion">Are you from a minority religion?</string>
+    <string name="monthly_income">What is your monthly household income?</string>
+</resources>

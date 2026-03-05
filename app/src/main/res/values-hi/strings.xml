@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">कल्याणसारथी</string>
+    
+    <!-- Hindi Strings -->
+    <string name="welcome_message">कल्याणसारथी में आपका स्वागत है! अपने लिए उपलब्ध सरकारी योजनाओं की खोज करें।</string>
+    <string name="start_chat">चैट शुरू करें</string>
+    <string name="chat_history">चैट इतिहास</string>
+    <string name="features">विशेषताएं:</string>
+    <string name="bilingual_support">• द्विभाषी समर्थन (अंग्रेजी/हिंदी)</string>
+    <string name="voice_input_output">• आवाज इनपुट और आउटपुट</string>
+    <string name="personalized_recommendations">• व्यक्तिगत योजना सुझाव</string>
+    <string name="chat_history_management">• चैट इतिहास प्रबंधन</string>
+    <string name="no_chat_history">अभी तक कोई चैट इतिहास नहीं है</string>
+    <string name="start_new_chat">अपना इतिहास यहाँ देखने के लिए एक नई चैट शुरू करें</string>
+    <string name="delete_chat">चैट हटाएं</string>
+    <string name="delete_confirmation">क्या आप वाकई इस चैट सत्र को हटाना चाहते हैं?</string>
+    <string name="delete">हटाएं</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="previous">पिछला</string>
+    <string name="next">अगला</string>
+    <string name="get_recommendations">सुझाव प्राप्त करें</string>
+    <string name="getting_recommendations">सुझाव प्राप्त कर रहे हैं...</string>
+    <string name="enter_phone_number">फोन नंबर दर्ज करें</string>
+    <string name="enter_age">आयु दर्ज करें</string>
+    <string name="please_enter_phone">कृपया अपना फोन नंबर दर्ज करें:</string>
+    <string name="please_enter_gender">कृपया अपना लिंग दर्ज करें:</string>
+    <string name="please_choose_area">कृपया चुनें कि आपका पंजीकृत पता ग्रामीण है या शहरी:</string>
+    <string name="please_specify_occupation">कृपया अपना व्यवसाय निर्दिष्ट करें:</string>
+    <string name="please_enter_age">कृपया अपनी आयु दर्ज करें:</string>
+    <string name="please_enter_caste">कृपया अपनी जाति दर्ज करें:</string>
+    <string name="please_enter_state">कृपया वह राज्य/केंद्र शासित प्रदेश दर्ज करें जिसके आप निवासी हैं:</string>
+    <string name="minority_religion">क्या आप अल्पसंख्यक धर्म से हैं?</string>
+    <string name="monthly_income">आपकी मासिक घरेलू आय क्या है?</string>
+</resources>
