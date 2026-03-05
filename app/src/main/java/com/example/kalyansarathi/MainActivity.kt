@@ -1692,7 +1692,7 @@ private fun getRecommendations(
             println("======================")
             
             val response = geminiApiService.generateContent(
-                apiKey = "AIzaSyCXB9nKAVYkXLdxOV-_9AFWoKeCQwc29X8",
+                apiKey = "API_KEY",
                 request = request
             )
             
